@@ -1,3 +1,9 @@
+Target Skill: Real-time Data Pipelines & Predictive Analysis.
+
+Built a data analysis tool that fetches and processes real-time infection data from the European Centre for Disease Prevention and Control. The project highlights my proficiency in filtering high-volume data and using Pandas and Seaborn to predict future outcomes and trends. 
+
+
+------------------------------------
 # COVID-19_Analysis
 
 
